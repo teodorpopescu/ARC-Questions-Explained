@@ -3,4 +3,7 @@ All the questions with 3 or 5 possible answers were discarded (there were in tot
 
 Train: 2200
 Dev: 492
-Test: 1661
+Test: 1661 (1175 easy + 485)
+
+17-05-2020: Tested on the dataset, but with no extra changes => 1453 / 1661
+18-05-2020: Replace ';' with 'or' => 1465 / 1660
